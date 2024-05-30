@@ -1,0 +1,78 @@
+priners:
+- printer-id: -1
+  pcfile-name: hp-officejet_6950.ppd
+  printer-name: HP Officejet 6950
+  printer-name-display: красивое название принтера, чтоб показывать в тг
+  printer-location: бла бла принтер где-то там
+  printer-location-display: чуть более подробная инструкция по тому, как найти принтер
+    (чтоб показывать пользаку по кнопочке)
+  available-options:
+    PageSize:
+    - Card3x5
+    - Card4x6
+    - Photo3x5
+    - PhotoL
+    - L.FB
+    - Photo4x6
+    - Photo4x6.FB
+    - A6
+    - A6.FB
+    - Hagaki.FB
+    - Hagaki.Duplex
+    - Photo5x7
+    - Photo5x7.FB
+    - Card5x8
+    - A5
+    - A5.FB
+    - Oufuku
+    - Postcard
+    - 6x8
+    - 8.5x13
+    - B5
+    - B5.Duplex
+    - JB5
+    - JB5.FB
+    - Executive
+    - Executive.Duplex
+    - Letter
+    - Letter.Duplex
+    - Letter.FB
+    - CardLetter
+    - Statement
+    - A4
+    - A4.Duplex
+    - A4.FB
+    - CardA4
+    - Legal
+    - Photo10x15
+    - Photo10x15.FB
+    - Photo2L
+    - Photo2L.FB
+    - Photo13x18
+    - Photo13x18.FB
+    - Photo8x10
+    - 8x10.FB
+    - EnvA2
+    - EnvC6
+    - EnvChou4
+    - Env6
+    - EnvCard
+    - EnvMonarch
+    - EnvDL
+    - Env10
+    - EnvChou3
+    - EnvC5
+    ColorModel:
+    - RGB
+    - CMYGray
+    - KGray
+    OutputMode:
+    - Normal
+    - FastDraft
+    - Best
+    - Photo
+    Duplex:
+    - DuplexNoTumble
+    - DuplexTumble
+    - None
+
